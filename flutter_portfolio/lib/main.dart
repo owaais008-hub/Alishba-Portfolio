@@ -105,7 +105,7 @@ class _PortfolioHomePageState extends State<PortfolioHomePage> {
         backgroundColor: const Color(0xFF0d162a).withOpacity(0.9),
         elevation: 0,
         title: Text(
-          'ALISHBA',
+          'ALISHBA-ALEEM',
           style: GoogleFonts.playfairDisplay(
             fontSize: 20,
             fontWeight: FontWeight.bold,
@@ -192,7 +192,7 @@ class _PortfolioHomePageState extends State<PortfolioHomePage> {
                     colors: [Color(0xFFe69138), Color(0xFFfff5e1)],
                   ).createShader(bounds),
                   child: Text(
-                    'ALISHBA',
+                    'ALISHBA ALEEM',
                     style: GoogleFonts.playfairDisplay(
                       fontSize: 24,
                       fontWeight: FontWeight.bold,

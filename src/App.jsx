@@ -76,7 +76,7 @@ function App() {
       {/* Desktop Navigation */}
       <nav className="desktop-nav">
         <div className="container nav-container">
-          <div className="logo">Alishba<span>.</span></div>
+          <div className="logo">ALISHBA ALEEM<span>.</span></div>
           <div className="nav-links">
             <a href="#home" className={activeHash === "#home" ? "active" : ""}>Home</a>
             <a href="#about" className={activeHash === "#about" ? "active" : ""}>About</a>
@@ -322,7 +322,7 @@ function App() {
       <footer>
         <div className="container">
           <div className="footer-content">
-            <div className="footer-logo">Alishba Aleem<span>.</span></div>
+            <div className="footer-logo">ALISHBA ALEEM<span>.</span></div>
             <p>&copy; 2026. All rights reserved. Designed for Impact.</p>
           </div>
         </div>
