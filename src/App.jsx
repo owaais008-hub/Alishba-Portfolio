@@ -292,7 +292,7 @@ function App() {
                 <a href="https://linkedin.com/in/alishba-aleem-flutter-developer-details-skills" title="LinkedIn" target="_blank" rel="noopener noreferrer">
                   <i className="fab fa-linkedin-in"></i>
                 </a>
-                <a href="#" title="GitHub">
+                <a href="https://github.com/Alyshbaaleem" title="GitHub" target="_blank" rel="noopener noreferrer">
                   <i className="fab fa-github"></i>
                 </a>
                 <a href="#" title="Behance">
