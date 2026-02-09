@@ -154,12 +154,13 @@ function App() {
             <div className="about-text-wrapper">
               <p>
                 I am Alishba Aleem, a Software Engineering student dedicated to building
-                impactful digital solutions. My unique background as a lead <strong>Brand Ambassador</strong>
-                at Aptech has equipped me with a rare dual perspective: the ability to write robust code
+                impactful digital solutions. My unique background as a lead <strong>Brand Ambassador</strong> <br />
+                &nbsp; at Aptech has equipped me with a rare dual perspective: the ability to write robust code
                 and the insight to understand exactly what the end-user needs.
               </p>
               <p>
-                Currently, I am architecting cross-platform mobile apps using the <strong>Flutter ecosystem</strong> and designing modern, responsive web architectures that prioritize performance and user experience.
+                Currently, I am architecting cross-platform mobile apps using the <strong>Flutter ecosystem</strong> <br />
+                and designing modern, responsive web architectures that prioritize performance and user experience.
               </p>
             </div>
 
